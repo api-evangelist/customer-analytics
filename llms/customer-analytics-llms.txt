@@ -1,0 +1,62 @@
+# Customer Analytics
+
+> Customer Analytics (CA) is a data, analytics and AI consultancy headquartered in Middleton, Wisconsin, with a delivery centre in Guindy, Chennai, India. It delivers AI/ML and data analytics, data engineering, business intelligence and reporting, business solutions design and software development, platform implementation and software management, and quality assurance — plus six productised "360" offerings. Customer Analytics is a professional services firm and publishes no public API, developer portal, SDKs or machine-readable API specifications.
+
+## About
+
+- [Customer Analytics](https://www.customeranalytics.com/): Company home — "Transforming your data with AI to drive measurable business impact."
+- [About Us](https://www.customeranalytics.com/company/about-us): Company overview and approach.
+- [Contact Us](https://www.customeranalytics.com/company/contact-us): Enquiries — Info@customeranalytics.com.
+- [Careers](https://www.customeranalytics.com/company/careers): Open roles.
+- [Life at CA](https://www.customeranalytics.com/company/life-at-ca): Culture and working life.
+- [CSR](https://www.customeranalytics.com/company/csr): Corporate social responsibility programme.
+- [Whitepapers](https://www.customeranalytics.com/company/whitepapers): Published research and analysis.
+
+## Services
+
+- [AI, ML and Data Analytics](https://www.customeranalytics.com/services/ai-ml-and-data-analytics): AI integration into business processes, AI agents, predictive modeling, data analytics.
+- [Data Engineering](https://www.customeranalytics.com/services/data-engineering): Data warehouse build, integration, migration, performance tuning, monitoring and support.
+- [Business Intelligence and Reporting](https://www.customeranalytics.com/services/business-intelligence-and-reporting): KPI discovery, dashboard and report design, data enrichment, AI-augmented BI.
+- [Business Solutions Design and Software Development](https://www.customeranalytics.com/services/business-solutions-design-and-software-development): Solution design, web and mobile apps, software integration, IoT solutions, business process automation.
+- [Platform Implementation and Software Management Services](https://www.customeranalytics.com/services/platform-implementation-and-software-management-services): Microsoft Dynamics 365, Microsoft Fabric and Salesforce platform management, migration, optimization and production support.
+- [Quality Assurance](https://www.customeranalytics.com/services/quality-assurance): Functional testing, data testing, test automation, load and performance testing, security testing.
+
+## Offerings
+
+- [DataWorks 360](https://www.customeranalytics.com/offerings/data-works-360): Comprehensive approach for data-driven decision making.
+- [BI Xpert 360](https://www.customeranalytics.com/offerings/bi-xpert-360): Discover where your data lives and how it is used.
+- [AI Assist 360](https://www.customeranalytics.com/offerings/ai-assist-360): Making AI a part of your operations.
+- [Retail AI Insights 360](https://www.customeranalytics.com/offerings/retail-ai-insights-360): Customer, market, store and predictive intelligence for retail strategies.
+- [PBILens 360](https://www.customeranalytics.com/offerings/pbilens-360): Compare Power BI reports.
+- [Smart IoT Data Track 360](https://www.customeranalytics.com/offerings/smart-iot-data-track-360): Automated data acquisition and insights in industrial operations.
+
+## Industries
+
+- [Industries index](https://www.customeranalytics.com/industries): Case studies by vertical.
+- [Healthcare](https://www.customeranalytics.com/industries/healthcare): Remote health monitoring, physician scorecard, queue app, cancer therapy programme app, stroke application.
+- [Manufacturing](https://www.customeranalytics.com/industries/manufacturing): Demand planning, operator and vendor scorecards, predictive maintenance, plant scheduling.
+- [Retail/B2B](https://www.customeranalytics.com/industries/retail-b2b): Demand forecasting, CRM, centralized retailer platform, marketing mix model analytics.
+- [Education](https://www.customeranalytics.com/industries/education): Academic staff operations management.
+- [Agriculture](https://www.customeranalytics.com/industries/agriculture): Plantation management and plantation data insights.
+- [Clinical Research](https://www.customeranalytics.com/industries/clinical-research): Resource and employee data management.
+- [Government](https://www.customeranalytics.com/industries/government): Mattress recycling coverage.
+
+## Legal
+
+- [Privacy Policy](https://www.customeranalytics.com/privacy-policy)
+- [Terms of Use](https://www.customeranalytics.com/terms-of-use)
+
+## Optional
+
+- [API Evangelist profile](https://raw.githubusercontent.com/api-evangelist/customer-analytics/refs/heads/main/apis.yml): APIs.json profile for this company.
+- [LinkedIn](https://www.linkedin.com/company/customer-analytics-llc/)
+- [Facebook](https://www.facebook.com/CustomerAnalyticsLLC/)
+- [Instagram](https://www.instagram.com/customeranalyticsindia/)
+- [Twitter](https://twitter.com/humantechnology)
+
+## Notes for agents
+
+- There is no public API, developer portal, API reference, SDK, CLI, MCP server or machine-readable specification for Customer Analytics as of 2026-07-20.
+- No /.well-known/ discovery documents are published; /.well-known/security.txt, /openid-configuration, /oauth-authorization-server, /api-catalog and /ai-plugin.json all return 404.
+- The /api/ path on customeranalytics.com is disallowed in robots.txt and serves the site's own internal Next.js application endpoints; it is not a public API.
+- Engagement is via the contact form or Info@customeranalytics.com, not via self-serve signup.

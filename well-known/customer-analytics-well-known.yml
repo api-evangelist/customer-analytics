@@ -1,0 +1,30 @@
+generated: '2026-07-20'
+method: probed
+source: live HTTP probes of https://www.customeranalytics.com
+host: https://www.customeranalytics.com
+note: 'No /.well-known/ discovery documents are published. Every probed path returned 404. Recorded so
+  the probe result is auditable and does not need to be repeated; no WellKnown or SecurityTxt pointer is
+  wired in apis.yml because nothing was found. The site''s robots.txt disallows /api/, which routes to
+  internal Next.js application endpoints rather than a public API.'
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+robots:
+  status: 200
+  url: https://www.customeranalytics.com/robots.txt
+  disallow:
+  - /api/
+  - /_next
+  - /404
+  - /500
+  sitemap: https://www.customeranalytics.com/sitemap.xml

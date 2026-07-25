@@ -1,21 +1,86 @@
 aid: customer-analytics
 name: Customer Analytics
-description: Customer Analytics is a company surfaced as a portfolio company of insight-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'Customer Analytics (CA) is a data, analytics and AI consultancy headquartered in Middleton,
+  Wisconsin with a delivery centre in Guindy, Chennai, India. The firm delivers AI/ML and data analytics,
+  data engineering, business intelligence and reporting, business solutions design and software development,
+  platform implementation and software management (Microsoft Dynamics 365, Microsoft Fabric, Salesforce),
+  and quality assurance. Alongside these services it packages six productised offerings — DataWorks 360,
+  BI Xpert 360, AI Assist 360, Retail AI Insights 360, PBILens 360 and Smart IoT Data Track 360 — and
+  publishes case studies across healthcare, manufacturing, retail/B2B, education, agriculture, clinical
+  research, warehouse operations, the art industry and government. Customer Analytics is a professional
+  services company: as of this enrichment pass it publishes no public developer portal, API documentation,
+  SDKs or machine-readable API specifications.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cawebapp-v2-ep.azureedge.net/ca-website/assets/images/header/ca-main-logo.svg
 url: https://raw.githubusercontent.com/api-evangelist/customer-analytics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - insight-partners
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-source-note: 'The originating stub recorded this company as an insight-partners portfolio company. That
+  attribution could not be confirmed during this enrichment pass: the Insight Partners portfolio listing
+  is client-rendered and returned no matching company server-side, and no independent confirmation was
+  available. "Customer Analytics" is also a common market-category label, so the stub may have originated
+  from a category tag rather than a portfolio company. Treat x-backed-by as unverified pending review.'
+x-tier: profiled
+x-tier-reason: identity-confirmed-no-api-surface
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
+- Analytics
+- Data
+- Artificial Intelligence
+- Machine Learning
+- Business Intelligence
+- Data Engineering
+- Quality Assurance
+- Internet of Things
+- Consulting
 - Company
 apis: []
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
+common:
+- type: DomainSecurity
+  url: security/customer-analytics-domain-security.yml
+- type: LLMsTxt
+  url: llms/customer-analytics-llms.txt
+- type: Website
+  url: https://www.customeranalytics.com/
+- type: About
+  url: https://www.customeranalytics.com/company/about-us
+- type: Support
+  url: https://www.customeranalytics.com/company/contact-us
+- type: PrivacyPolicy
+  url: https://www.customeranalytics.com/privacy-policy
+- type: TermsOfService
+  url: https://www.customeranalytics.com/terms-of-use
+- type: Careers
+  url: https://www.customeranalytics.com/company/careers
+- type: WhitePapers
+  url: https://www.customeranalytics.com/company/whitepapers
+- type: LinkedIn
+  url: https://www.linkedin.com/company/customer-analytics-llc/
+- type: Twitter
+  url: https://twitter.com/humantechnology
+- type: Facebook
+  url: https://www.facebook.com/CustomerAnalyticsLLC/
+- type: Instagram
+  url: https://www.instagram.com/customeranalyticsindia/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
