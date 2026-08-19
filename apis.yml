@@ -34,7 +34,7 @@ x-source-note: 'The originating stub recorded this company as an insight-partner
   from a category tag rather than a portfolio company. Treat x-backed-by as unverified pending review.'
 x-tier: profiled
 x-tier-reason: identity-confirmed-no-api-surface
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
