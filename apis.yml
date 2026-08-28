@@ -10,6 +10,17 @@ description: 'Customer Analytics (CA) is a data, analytics and AI consultancy he
   research, warehouse operations, the art industry and government. Customer Analytics is a professional
   services company: as of this enrichment pass it publishes no public developer portal, API documentation,
   SDKs or machine-readable API specifications.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
