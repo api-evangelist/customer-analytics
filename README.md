@@ -64,29 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Customer Analytics (CA) is a data, analytics and AI consultancy headquartered in Middleton, Wisconsin, with a delivery centre in Guindy, Chennai, India.
+Customer Analytics (CA) is a data, analytics and AI consultancy headquartered in Middleton, Wisconsin with a delivery centre in Guindy, Chennai, India. The firm delivers AI/ML and data analytics, data engineering, business intelligence and reporting, business solutions design and software development, platform implementation and software management (Microsoft Dynamics 365, Microsoft Fabric, Salesforce), and quality assurance. Alongside these services it packages six productised offerings — DataWorks 360, BI Xpert 360, AI Assist 360, Retail AI Insights 360, PBILens 360 and Smart IoT Data Track 360 — and publishes case studies across healthcare, manufacturing, retail/B2B, education, agriculture, clinical research, warehouse operations, the art industry and government. Customer Analytics is a professional services company: as of this enrichment pass it publishes no public developer portal, API documentation, SDKs or machine-readable API specifications.
 
-- Website: https://www.customeranalytics.com/
-- Contact: Info@customeranalytics.com
+**Areas:** Analytics · Data · Artificial Intelligence · Machine Learning · Business Intelligence · Data Engineering · Quality Assurance · IoT · Consulting · Company
 
-## Services
+## Customer Analytics on APIs.io
 
-AI/ML and data analytics; data engineering; business intelligence and reporting; business solutions design and software development; platform implementation and software management (Microsoft Dynamics 365, Microsoft Fabric, Salesforce); quality assurance.
+Everything profiled for Customer Analytics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/customer-analytics/](https://apis.io/providers/customer-analytics/)** — or go straight to one of the APIs or properties below.
 
-## Offerings
+### Published properties
 
-DataWorks 360, BI Xpert 360, AI Assist 360, Retail AI Insights 360, PBILens 360, Smart IoT Data Track 360.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Industries
+#### Security (1)
 
-Healthcare, manufacturing, retail/B2B, education, agriculture, clinical research, warehouse operations, art industry, government.
+Authentication, trust centre, and vulnerability disclosure.
 
-## API surface
+- [Customer Analytics Domain Security](https://apis.io/security/customer-analytics/customer-analytics-domain-security/)
 
-Customer Analytics is a professional services firm. As of the 2026-07-20 enrichment pass it publishes **no public API, developer portal, API reference, SDK, CLI, MCP server or machine-readable specification**. No `/.well-known/` discovery documents are served, and no first-party client libraries were found on npm or PyPI. The `/api/` path on the website is disallowed in `robots.txt` and serves the site's own internal Next.js application endpoints.
+## Where to find this API
 
-Artifacts captured in this repo are therefore limited to identity, a probed domain-security profile, a probed `/.well-known/` result (all 404), and a generated `llms.txt`.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Provenance note
+- [Website](https://www.customeranalytics.com/)
+- [Support](https://www.customeranalytics.com/company/contact-us)
+- [Terms of service](https://www.customeranalytics.com/terms-of-use)
+- [Privacy policy](https://www.customeranalytics.com/privacy-policy)
 
-This profile originated from a stub recording the company as an `insight-partners` portfolio company. That attribution **could not be confirmed** — the Insight Partners portfolio listing is client-rendered and returned no matching company server-side. "Customer Analytics" is also a common market-category label, so the stub may have come from a category tag rather than a portfolio company. See `x-source-note` in `apis.yml`.
+## API Evangelist rating
+
+**Kin Score 10.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/customer-analytics/](https://apis.io/providers/customer-analytics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Customer Analytics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/customer-analytics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
